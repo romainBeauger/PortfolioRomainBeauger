@@ -8,11 +8,11 @@ function Hero() {
          <div className="grid md:grid-cols-2 gap-12 items-center py-20">
           {/* texte */}
           <div className="text-white">
-            <h1 className="text-6-xl md:text-7xl font-thin mb-6 animate-fade-in">
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-thin mt-4 mb-4 animate-fade-in">
               Bienvenue.
             </h1>
 
-            <p className="text-6-xl md:text-2xl text-white/90 leading-relaxed max-w-2xl mb-8 ">
+            <p className="text-6-xl md:text-xl text-white/90 leading-relaxed max-w-2xl mb-4 ">
               Je suis <strong className="font-semibold text-white">Romain</strong>, 
               développeur web front-end passionné par la création d'interfaces modernes et intuitives. Spécialisé en React et Tailwind CSS, je transforme vos idées en expériences utilisateur mémorables.
             </p>
@@ -35,7 +35,7 @@ function Hero() {
           </div>
 
           {/* Image */}
-          <div className="hidden md:block">
+          <div className="-mt-3 md:mt-15">
           <img 
             src={`${import.meta.env.BASE_URL}images/laptop-3d.png`} 
             alt="Developer workspace" 
