@@ -20,7 +20,7 @@ function Hero() {
             {/* Boutons CTA */}
             <div className="flex flex-wrap gap-4">
               <a 
-                href="#project"
+                href="#projects"
                 className="px-8 py-3 bg-accent-blue hover:bg-[#60a5fa] text-white font-semibold rounded-lg transition-all duration-300 transform hover:scale-105"
                 >
                   Voir mes projets
