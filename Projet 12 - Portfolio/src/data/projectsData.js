@@ -1,8 +1,21 @@
 export const projectsData = [
   {
     id: 1,
+    title: "OF Course Trader",
+    description: "Projet Personnel - Création d'un site complet, multilingue, de vente en ligne d'indicateurs de trading propriétaires et de formations",
+    technologies: ["HTML 5", "CSS 3", "JavaScript"],
+    images: [
+      "projects/ofct2.png",
+      "projects/ofct1.png",
+    ],
+    github: "https://github.com/romainBeauger/OfCourseTrader.git",
+    demo: "https://ofcoursetrader.com/",
+    date: "2025"
+  },
+  {
+    id: 2,
     title: "Booki",
-    description: "Création de la page d'accueil d'un site de recherche d'hébergements et de location",
+    description: "Projet OpenClassRooms - Création de la page d'accueil d'un site de recherche d'hébergements et de location",
     technologies: ["HTML 5", "CSS 3", "SASS"],
     images: [
       "projects/booki1.png",
@@ -13,9 +26,9 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 2,
+    id: 3,
     title: "Oh My Food !",
-    description: "Animation d'un site qui répertorie des menus gastronomiques",
+    description: "Projet OpenClassRooms - Animation d'un site qui répertorie des menus gastronomiques",
     technologies: ["HTML 5", "CSS 3", "SASS"],
     images: [
       "projects/ohmyfood1.png",
@@ -27,9 +40,9 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 3,
+    id: 4,
     title: "Print It",
-    description: "Dynamiser le site web avec un carousel",
+    description: "Projet OpenClassRooms - Dynamiser le site web avec un carousel",
     technologies: ["HTML 5", "CSS 3", "JavaScript"],
     images: [
       "projects/printit1.png",
@@ -40,9 +53,9 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 4,
+    id: 5,
     title: "Architecte Sophie Bluel",
-    description: "Améliorer le portfolio avec une page de login et de gestion des photos par l'administratrice",
+    description: "Projet OpenClassRooms - Améliorer le portfolio avec une page de login et de gestion des photos par l'administratrice",
     technologies: ["HTML 5", "CSS 3", "SASS", "JavaScript"],
     images: [
       "projects/sophiebluel1.png",
@@ -58,9 +71,9 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 5,
+    id: 6,
     title: "Photographe Nina Carducci",
-    description: "Optimiser les performances et le référencement de ce site web portfolio",
+    description: "Projet OpenClassRooms - Optimiser les performances et le référencement de ce site web portfolio",
     technologies: ["HTML 5", "CSS 3", "JavaScript"],
     images: [
       "projects/ninacarducci1.png",
@@ -72,9 +85,9 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 6,
+    id: 7,
     title: "Agence immobilière Kasa",
-    description: "Créer une application d'agence immobilière avec React JS",
+    description: "Projet OpenClassRooms - Créer une application d'agence immobilière avec React JS",
     technologies: ["HTML 5", "CSS 3", "SASS", "React"],
     images: [
       "projects/kasa1.png",
