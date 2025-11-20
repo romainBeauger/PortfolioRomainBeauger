@@ -14,7 +14,7 @@ function Hero() {
 
             <p className="text-6-xl md:text-xl text-white/90 leading-relaxed max-w-2xl mb-4 ">
               Je suis <strong className="font-semibold text-white">Romain</strong>, 
-              développeur web front-end passionné par la création d'interfaces modernes et intuitives. Spécialisé en React et Tailwind CSS, je transforme vos idées en expériences utilisateur mémorables.
+              développeur web front-end passionné par la création d'interfaces modernes et intuitives. Je termine actuellement mon parcours d'intégrateur web chez OpenClassRooms. Spécialisé en React et Tailwind CSS, je transforme vos idées en expériences utilisateur mémorables.
             </p>
 
             {/* Boutons CTA */}
