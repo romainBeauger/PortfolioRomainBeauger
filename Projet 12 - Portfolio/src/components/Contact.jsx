@@ -80,7 +80,7 @@ function Contact() {
               </p>
 
               <div className="space-y-4">
-                <div className="flex items-center gap-4">
+                {/* <div className="flex items-center gap-4">
                   <div className="w-12 h-12 bg-accent-blue/10 rounded-full flex items-center justify-center">
                     <Mail className="text-accent-blue" size={24} />
                   </div>
@@ -88,7 +88,7 @@ function Contact() {
                     <p className="font-semibold text-primary-dark">Email</p>
                     <p className="text-gray-600">romain.beauger@gmail.com</p>
                   </div>
-                </div>
+                </div> */}
 
                 <div className="flex items-center gap-4">
                   <div className="w-12 h-12 bg-accent-blue/10 rounded-full flex items-center justify-center">
