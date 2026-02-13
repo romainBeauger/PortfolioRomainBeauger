@@ -48,8 +48,8 @@ export const projectsData = [
       "projects/printit1.png",
       "projects/printit2.png",
     ],
-    github: "https://github.com/romainBeauger/ArchitecteSophieBluel.git",
-    demo: "https://romainbeauger.github.io/ArchitecteSophieBluel/",
+    github: "https://github.com/romainBeauger/PrintIt.git",
+    demo: "https://romainbeauger.github.io/PrintIt/",
     date: "2025"
   },
   {

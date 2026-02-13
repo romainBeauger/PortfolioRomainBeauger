@@ -6,7 +6,10 @@ import {
   SiGithub, 
   SiTailwindcss,
   SiSass,
-  SiBootstrap
+  SiBootstrap,
+  SiAngular,
+  SiNodedotjs,
+  SiSymfony,
 } from 'react-icons/si'
 
 const skills = [
@@ -46,13 +49,29 @@ const skills = [
     level: 85,
     color: '#F7DF1E' // Jaune JavaScript
   },
-  { 
-    name: 'React / Redux', 
-    icon: SiReact, 
+  {
+    name: 'React ',
+    icon: SiReact,
     level: 80,
     color: '#61DAFB' // Cyan React
-  },  
-  { 
+  },{
+    name: 'Angular',
+    icon: SiAngular,
+    level: 70,
+    color: '#d80836' // Cyan React
+  },
+  {
+    name: 'Node JS',
+    icon: SiNodedotjs,
+    level: 80,
+    color: '#6da066' // Cyan React
+  },{
+    name: 'Symfony',
+    icon: SiSymfony,
+    level: 80,
+    color: '#000000' // Cyan React
+  },
+  {
     name: 'GitHub', 
     icon: SiGithub, 
     level: 75,

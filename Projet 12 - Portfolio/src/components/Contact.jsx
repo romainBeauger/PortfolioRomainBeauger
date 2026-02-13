@@ -96,7 +96,7 @@ function Contact() {
                   </div>
                   <div>
                     <p className="font-semibold text-primary-dark">Localisation</p>
-                    <p className="text-gray-600">Poitiers, France</p>
+                    <p className="text-gray-600">86, France</p>
                   </div>
                 </div>
               </div>
