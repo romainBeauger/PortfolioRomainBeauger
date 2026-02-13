@@ -88,7 +88,7 @@ function Skills() {
             Mes Compétences
           </h2>
           <p className="text-center text-gray-600 text-lg mb-12">
-            Technologies que je maîtrise
+            Les technologies que j'utilise
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-7xl mx-auto">
