@@ -1,3 +1,5 @@
+import TypingText from './TypingText';
+
 function Hero() {
   return (
     <section
@@ -8,13 +10,15 @@ function Hero() {
          <div className="grid md:grid-cols-2 gap-12 items-center py-20">
           {/* texte */}
           <div className="text-white">
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-thin mt-4 mb-4 animate-fade-in">
-              Bienvenue.
-            </h1>
+            <TypingText
+              text="Bienvenue."
+              typingSpeed={150}
+              className="text-4xl md:text-6xl lg:text-7xl font-thin mt-4 mb-4"
+            />
 
             <p className="text-6-xl md:text-xl text-white/90 leading-relaxed max-w-2xl mb-4 ">
               Je suis <strong className="font-semibold text-white">Romain</strong>, 
-              développeur web front-end passionné par la création d'interfaces modernes et intuitives. Je termine actuellement mon parcours d'intégrateur web chez OpenClassRooms. Spécialisé en React et Tailwind CSS, je transforme vos idées en expériences utilisateur mémorables.
+              développeur web fullstack passionné par la création d'interfaces modernes et intuitives. Je termine actuellement mon parcours de développeur web fullstack à l'école ENI. Mes connaissances aussi bien front-end et back-end me permettent de transformer vos idées en expériences utilisateur mémorables.
             </p>
 
             {/* Boutons CTA */}

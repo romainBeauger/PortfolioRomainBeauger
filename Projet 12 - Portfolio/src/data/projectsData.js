@@ -98,18 +98,18 @@ export const projectsData = [
     demo: "https://romainbeauger.github.io/Kasa/",
     date: "2025"
   },  
-  {
-    id: 8,
-    title: "Application bancaire - Argent Bank",
-    description: "Projet OpenClassRooms - Créer une application bancaire avec React / Redux Toolkit",
-    technologies: ["HTML 5", "CSS 3", "React", "Redux Toolkit"],
-    images: [
-      "projects/argentbank1.png",
-      "projects/argentbank2.png",
-      "projects/argentbank3.png",
-    ],
-    github: "https://github.com/romainBeauger/ArgentBank-Frontend.git",
-    demo: "https://github.com/romainBeauger/ArgentBank-Frontend.git",
-    date: "2025"
-  },  
+  // {
+  //   id: 8,
+  //   title: "Application bancaire - Argent Bank",
+  //   description: "Projet OpenClassRooms - Créer une application bancaire avec React / Redux Toolkit",
+  //   technologies: ["HTML 5", "CSS 3", "React", "Redux Toolkit"],
+  //   images: [
+  //     "projects/argentbank1.png",
+  //     "projects/argentbank2.png",
+  //     "projects/argentbank3.png",
+  //   ],
+  //   github: "https://github.com/romainBeauger/ArgentBank-Frontend.git",
+  //   // demo: "https://github.com/romainBeauger/ArgentBank-Frontend.git",
+  //   date: "2025"
+  // },
 ]
