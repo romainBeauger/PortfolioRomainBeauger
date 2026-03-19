@@ -28,13 +28,13 @@ const skills = [
   { 
     name: 'Sass', 
     icon: SiSass, 
-    level: 70,
+    level: 75,
     color: '#CC6699' // Rose Sass
   },
   { 
     name: 'Bootstrap', 
     icon: SiBootstrap, 
-    level: 75,
+    level: 85,
     color: '#7952B3' // Violet Bootstrap
   },
   { 
@@ -57,7 +57,7 @@ const skills = [
   },{
     name: 'Angular',
     icon: SiAngular,
-    level: 70,
+    level: 75,
     color: '#d80836' // Cyan React
   },
   {
@@ -68,13 +68,13 @@ const skills = [
   },{
     name: 'Symfony',
     icon: SiSymfony,
-    level: 80,
+    level: 85,
     color: '#000000' // Cyan React
   },
   {
     name: 'GitHub', 
     icon: SiGithub, 
-    level: 75,
+    level: 90,
     color: '#181717' // Noir GitHub
   }
 ]

@@ -14,6 +14,18 @@ export const projectsData = [
   },
   {
     id: 2,
+    title: "Think Smart",
+    description: "Projet Personnel - Création d'un site permettant de centraliser des définitions et exemples de code dans les langages de programmation que j'utilise",
+    technologies: ["HTML 5", "CSS 3", "JavaScript", "Bootstrap"],
+    images: [
+      "projects/thinksmart1.png",
+    ],
+    github: "https://github.com/romainBeauger/thinksmart.git",
+    demo: "https://romainbeauger.github.io/thinksmart/html.html",
+    date: "2026"
+  },
+  {
+    id: 3,
     title: "Booki",
     description: "Projet OpenClassRooms - Création de la page d'accueil d'un site de recherche d'hébergements et de location",
     technologies: ["HTML 5", "CSS 3", "SASS"],
@@ -26,7 +38,7 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 3,
+    id: 4,
     title: "Oh My Food !",
     description: "Projet OpenClassRooms - Animation d'un site qui répertorie des menus gastronomiques",
     technologies: ["HTML 5", "CSS 3", "SASS"],
@@ -40,7 +52,7 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 4,
+    id: 5,
     title: "Print It",
     description: "Projet OpenClassRooms - Dynamiser le site web avec un carousel",
     technologies: ["HTML 5", "CSS 3", "JavaScript"],
@@ -53,7 +65,7 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 5,
+    id: 6,
     title: "Architecte Sophie Bluel",
     description: "Projet OpenClassRooms - Améliorer le portfolio avec une page de login et de gestion des photos par l'administratrice",
     technologies: ["HTML 5", "CSS 3", "SASS", "JavaScript"],
@@ -71,7 +83,7 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 6,
+    id: 7,
     title: "Photographe Nina Carducci",
     description: "Projet OpenClassRooms - Optimiser les performances et le référencement de ce site web portfolio",
     technologies: ["HTML 5", "CSS 3", "JavaScript"],
@@ -85,7 +97,7 @@ export const projectsData = [
     date: "2025"
   },
   {
-    id: 7,
+    id: 8,
     title: "Agence immobilière Kasa",
     description: "Projet OpenClassRooms - Créer une application d'agence immobilière avec React JS",
     technologies: ["HTML 5", "CSS 3", "SASS", "React"],
